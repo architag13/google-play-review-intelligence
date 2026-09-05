@@ -15,8 +15,7 @@ The system performs:
 - Version-wise analysis
 - Issue clustering
 - Trend analysis
-- Aspect-based sentiment analysis
-- Sentiment classification
+
 
 ## 🚀 Key Features
 
@@ -42,22 +41,6 @@ categories.
 
 ### 6. Trend Analysis
 Tracks specific issues across app versions using OR and AND keyword logic.
-
-### 7. Aspect-Based Sentiment Analysis
-Identifies sentiment associated with specific app aspects such as:
-- Calls
-- Messages
-- Notifications
-- Media
-- Privacy
-- Backup
-- Groups
-- Performance
-- Updates
-
-### 8. Machine Learning
-Uses TF-IDF based machine learning models for sentiment classification
-and model evaluation.
 
 ## 🛠️ Tech Stack
 
