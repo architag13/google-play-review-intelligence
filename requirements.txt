@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+spacy
+nltk
+google-play-scraper
+wordcloud
+matplotlib
+scikit-learn
+sumy
+tqdm
+packaging
